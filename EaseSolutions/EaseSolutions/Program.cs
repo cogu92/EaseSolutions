@@ -33,6 +33,7 @@ namespace EaseSolutions
                 }
             }
 
+
             int[] upVectors = new int[2];
             int pathUp = -1;
             int dropUp = -1;
